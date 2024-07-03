@@ -1,0 +1,45 @@
+
+body{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+hr{
+    background-color: rgb(32, 24, 154);
+    height: 4px;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0%;
+    overflow: hidden;
+    background-color: rgb(17, 97, 163);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    display: block;
+}
+
+li{
+    float: left;
+}
+
+li a { 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: no;
+
+}
+
+p{
+    color: rgb(212, 69, 214);
+}
+
+
+
+li a:hover{
+    background-color: antiquewhite;
+    color: (17, 97, 163);
+}
